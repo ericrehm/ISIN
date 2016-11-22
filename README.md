@@ -1,5 +1,5 @@
 # ISIN
-Classes in various language to support the NASA / GlobColour / CCI ISIN grid used for binned (e.g., L3BIN) satellite products
+Classes in various languages (C, C++, Python, MATLAB)  to support the NASA / GlobColour / CCI ISIN grid used for binned (e.g., L3BIN) satellite products
 
 ### C / CPP
 
